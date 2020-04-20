@@ -4,7 +4,7 @@ This guide will help you get started using **welcome bot** on your own repositor
 
 ## Installing the bot
 
-The bot works by providing a message on a contributor's first issue, pull request, or merged pull request. In order to scan a repository, the app must be installed on that repository. To install the app, use the following instructions:
+The bot works by providing a message on a contributor's first issue, pull request, or merged pull request. To scan a repository, the app must be installed on that repository. To install the app, use the following instructions below:
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following Permissions and Events:
 
