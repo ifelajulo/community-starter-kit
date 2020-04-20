@@ -1,5 +1,7 @@
 # Getting Started Guide
 
+Welcome to our repository! Thanks for adding an issue, if you are reporting a bug or a feature request, please make sure to assign a label to this issue.
+
 This guide will help you get started using **welcome bot** on your own repositories. For more information on what this bot does, check out the [README](../README.md).
 
 ## Installing the bot
